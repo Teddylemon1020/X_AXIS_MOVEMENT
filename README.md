@@ -19,6 +19,7 @@ This project requires the following components:
 15. **Power Supply:** 24 volts
 16. **Nuts and Bolts:** For frame assembly
 17. **Raspberry Pi:** Minimum 4GB RAM
+18. **DHT11** standard
 
 ---
 
