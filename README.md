@@ -20,6 +20,9 @@ This project requires the following components:
 16. **Nuts and Bolts:** For frame assembly
 17. **Raspberry Pi:** Minimum 4GB RAM
 18. **DHT11** standard
+19. **Laser** red line laser diode
+20. **Servo Motor** Tower Pro
+21. **Speaker** Grove (brand) Speaker
 
 ---
 
